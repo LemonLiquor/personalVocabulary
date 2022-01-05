@@ -1,4 +1,5 @@
 from core import PersonalVocabulary,PeelWord
+from expand import Browser
 
 def main():
     beginSts = \
